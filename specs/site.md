@@ -4,7 +4,7 @@
 
 ## Objetivo do site
 
-Informar visitantes e direcioná-los ao contato com a equipe ou ao agendamento de uma avaliação.
+Informar visitantes e direcioná-los ao contato ou ao agendamento de uma avaliação.
 
 ## Público-alvo
 
@@ -62,11 +62,6 @@ O conteúdo será distribuído entre páginas próprias para:
 
 A página inicial funcionará como resumo institucional e distribuirá a navegação para as páginas internas. Cada página deverá sustentar o fluxo entre informação e contato sem repetir integralmente o conteúdo das demais.
 
-### Seção A Equipe
-
-- A página `clinica.html` terá uma seção “A Equipe”.
-- Enquanto as informações reais não forem recebidas, serão exibidos quatro espaços neutros contendo apenas “Nome do profissional”, “Área” e uma área reservada para fotografia.
-- Não publicar nomes, áreas de atuação, títulos, registros profissionais, biografias ou fotografias sem conteúdo real aprovado.
 
 ## Tratamentos confirmados para apresentação
 
@@ -82,14 +77,14 @@ Os nomes e respectivos arquivos estão aprovados para compor a seção de tratam
 ## Funcionalidades
 
 - Navegação responsiva entre as seis páginas institucionais.
-- Mecanismo para falar com a equipe e/ou agendar uma avaliação.
+- Mecanismo para contato e agendamento de uma avaliação.
 - Exibir opções de contato por WhatsApp, telefone e e-mail.
 - Destino e funcionamento exatos das CTAs: **pendentes**.
 - Formulários, WhatsApp, mapa, agenda, analytics, CMS e demais integrações: **pendentes**.
 
 ## Chamadas para ação
 
-- Principal: “Fale com a nossa equipe”.
+- Principal: “Entre em contato”.
 - Alternativa: “Agende sua avaliação”.
 - Todo botão com o texto “Agende sua avaliação” deve abrir diretamente o WhatsApp oficial em `https://wa.me/5547984935122`.
 - As páginas não devem repetir blocos extensos de contato imediatamente antes do rodapé.
@@ -207,7 +202,7 @@ Temas recorrentes observados nas avaliações públicas: acolhimento, atenção 
 
 - Planejamento e construção de um site institucional com seis páginas em português para a Clínica Renova Odontologia.
 - Apresentação de informações reais aprovadas.
-- Direcionamento para contato com a equipe ou agendamento de avaliação.
+- Direcionamento para contato ou agendamento de avaliação.
 - Exibição dos contatos, endereço, horário de atendimento e convênios credenciados fornecidos.
 - Experiência responsiva em celular e desktop.
 

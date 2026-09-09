@@ -81,7 +81,7 @@ Se forem recebidos nomes, credenciais e retratos autorizados, uma seção “Pro
 
 ### 5. Tratamentos
 
-**Objetivo:** permitir reconhecimento rápido das seis áreas confirmadas e conduzir à conversa com a equipe, sem oferecer orientação clínica individual.
+**Objetivo:** permitir reconhecimento rápido das seis áreas confirmadas e conduzir ao contato, sem oferecer orientação clínica individual.
 
 **Conteúdo necessário:** nome aprovado de cada tratamento; descrição curta real e validada; CTA geral para avaliação. Não incluir benefícios ou indicações ainda não fornecidos.
 
@@ -138,7 +138,7 @@ Se forem recebidos nomes, credenciais e retratos autorizados, uma seção “Pro
 
 **Objetivo:** informar rapidamente os convênios aceitos e reduzir dúvidas antes do contato.
 
-**Conteúdo:** OdontoPrev, Bradesco Dental, BB Dental, Dental Uni, Odontolife, Celos e Hapvida; nota curta orientando a confirmar cobertura diretamente com a equipe, se aprovada.
+**Conteúdo:** OdontoPrev, Bradesco Dental, BB Dental, Dental Uni, Odontolife, Celos e Hapvida; nota curta orientando a confirmar cobertura diretamente pelo contato, se aprovada.
 
 **Imagens:** logotipos oficiais ainda não recebidos. Até que sejam fornecidos e autorizados, usar nomes em texto; não redesenhar marcas nem baixar versões aleatórias.
 

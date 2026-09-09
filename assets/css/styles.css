@@ -150,18 +150,6 @@ h3 { margin-bottom: 0.35rem; font-size: 1.75rem; }
 .value-grid article { min-height: 12.5rem; padding: 1.6rem; display: flex; flex-direction: column; justify-content: center; border-right: 1px solid rgba(93, 61, 46, 0.3); border-bottom: 1px solid rgba(93, 61, 46, 0.3); }
 .value-grid h3 { margin-bottom: 0.7rem; font-size: clamp(1.55rem, 2.5vw, 2.1rem); }
 .value-grid p { margin-bottom: 0; }
-.team-section { background: var(--off-white); }
-.team-container { max-width: 62rem; }
-.team-heading { margin-bottom: clamp(2rem, 5vw, 4rem); padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
-.team-heading h2 { max-width: 38rem; margin-bottom: 0; }
-.team-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(1rem, 2.5vw, 2rem); }
-.team-member { min-width: 0; }
-.team-photo { width: clamp(5.5rem, 9vw, 7.5rem); aspect-ratio: 1; margin-bottom: 1.15rem; display: grid; place-items: center; overflow: hidden; border: 1px solid rgba(93, 61, 46, 0.25); border-radius: 50%; background: linear-gradient(145deg, rgba(202, 204, 180, 0.72), rgba(236, 233, 226, 0.96)); box-shadow: 0 0.6rem 1.8rem rgba(57, 40, 32, 0.08); color: var(--chocolate); transition: border-color 260ms ease, background-color 260ms ease, transform 260ms ease; }
-.team-photo span { font-size: 0.68rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; }
-.team-member h3 { margin-bottom: 0.25rem; font-family: "Montserrat", Arial, sans-serif; font-size: 0.92rem; font-weight: 600; line-height: 1.35; transition: letter-spacing 260ms ease; }
-.team-member p { margin-bottom: 0; color: var(--tan); font-size: 0.8rem; }
-.team-member:hover .team-photo { border-color: var(--chocolate); background: var(--sage); transform: translateY(-0.3rem) scale(1.03); }
-.team-member:hover h3 { letter-spacing: 0.015em; }
 
 .facts { border-block: 1px solid var(--border); background: var(--white); }
 .facts-grid { display: grid; grid-template-columns: repeat(3, 1fr); }
@@ -286,7 +274,6 @@ h3 { margin-bottom: 0.35rem; font-size: 1.75rem; }
   .clinic-hero-copy { width: min(40rem, 76%); }
   .differentials-intro { grid-template-columns: 1fr; align-items: start; }
   .value-grid { grid-template-columns: 1fr 1fr; }
-  .team-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); row-gap: 2.5rem; }
   .treatment-grid { grid-template-columns: repeat(3, 1fr); }
   .contact-grid { grid-template-columns: 1fr; }
   .contact-intro { max-width: 46rem; }
@@ -344,8 +331,6 @@ h3 { margin-bottom: 0.35rem; font-size: 1.75rem; }
   .feature-list li:nth-child(odd) { padding-right: 0; }
   .value-grid { grid-template-columns: 1fr; }
   .value-grid article { min-height: auto; padding-block: 1.5rem; }
-  .team-grid { gap: 2rem 1rem; }
-  .team-photo { width: 6rem; }
   .contact-details { grid-template-columns: 1fr; }
   .contact-wide { grid-column: auto; }
   .footer-grid { grid-template-columns: 1fr; gap: 2rem; }

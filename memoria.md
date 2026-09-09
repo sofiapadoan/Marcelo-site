@@ -5,13 +5,13 @@
 ## Decisões aprovadas
 
 - 2026-09-03 — Autorizada uma exceção restrita à stack: AOS 2.3.4 pode ser usado com JavaScript compartilhado para animações sutis de entrada, entre 600 e 800 ms, executadas uma vez e desativadas por `prefers-reduced-motion`; o projeto permanece sem React, TypeScript, Tailwind ou outras dependências.
+- 2026-09-09 — Os conteúdos institucionais provisórios e as referências públicas associadas foram removidos do site.
 - 2026-09-03 — Os quatro pilares de atendimento não devem exibir numeração e seus cards devem ser compactos, com textos equilibrados verticalmente.
 - 2026-09-03 — As molduras das galerias devem ser totalmente preenchidas, sem faixas laterais; fotografias verticais podem receber o recorte mínimo necessário com ponto focal controlado. Esta decisão substitui a exibição integral da fotografia vertical.
 - 2026-09-03 — As fotografias das seções Clínica 1, Clínica 2 e Recepção devem ser menores, horizontais e sem zoom ou corte excessivo.
 - 2026-09-02 — A Clínica 1 passa a ter três fotografias próprias e a Recepção passa a ter duas, preservando o padrão editorial por ambientes.
 - 2026-09-02 — A Clínica 2 passa a ter três fotografias próprias: a imagem já existente e as novas imagens recebidas como `c2.jpeg` e `c2.2.jpeg`.
 - 2026-09-02 — A seção de ambientes da página “A Clínica” será dividida em três capítulos: Clínica 1, Clínica 2 e Recepção, cada um associado à sua fotografia.
-- 2026-08-28 — A página “A Clínica” terá a seção “A Equipe” com quatro espaços provisórios; até o recebimento das informações reais, cada item mostrará somente “Nome do profissional”, “Área” e um espaço reservado para foto.
 - 2026-08-28 — O topo da página “A Clínica” deve usar a fotografia da recepção em grande escala, ocupando quase toda a largura e boa parte da primeira tela, inspirado na profundidade da referência.
 - 2026-08-28 — O novo menu será recriado somente com HTML e CSS: cápsula flutuante expandida no desktop e controle circular com painel nativo em telas menores; não haverá reação automática à direção da rolagem por exigir JavaScript.
 - 2026-08-28 — O projeto foi conectado à conta Vercel informada pelo responsável e publicado em produção em `https://clinica-renova-odontologia.vercel.app`.
@@ -23,7 +23,7 @@
 - 2026-08-27 — Pilares confirmados: Acolhimento, Personalização, Tecnologia e Cuidado, com os textos fornecidos para cada um.
 - 2026-08-27 — O público-alvo informado é composto por homens e mulheres de 35 a 75 anos.
 - 2026-08-27 — O objetivo principal é informar e direcionar o visitante.
-- 2026-08-27 — As chamadas para ação consideradas são “Fale com a nossa equipe” e “Agende sua avaliação”.
+- 2026-08-27 — As chamadas para ação consideradas são “Entre em contato” e “Agende sua avaliação”.
 - 2026-08-27 — A stack aprovada é HTML e CSS puros e não pode ser alterada sem autorização.
 - 2026-08-27 — O nome oficial confirmado é “Clínica Renova Odontologia”, substituindo “Renove Odontologia”.
 - 2026-08-27 — A identidade final deve ser original e pertencer à Clínica Renova Odontologia; referências servirão apenas como direção de estrutura e atmosfera.
@@ -37,7 +37,7 @@
 - 2026-08-27 — O perfil correto no Google foi confirmado pelo endereço e, na consulta desta data, exibia nota 4,9 de 5 com 178 avaliações.
 - 2026-08-27 — Foram selecionadas como candidatas avaliações públicas de Beatriz Gallassini Pereira, joana guesser e Elizete Martos; a seleção final e o formato de atribuição ainda precisam ser definidos.
 - 2026-08-27 — `meus-resultados/` será o acervo de resultados odontológicos reais enviados posteriormente; `imagens-site/` será o acervo de imagens de exemplo por procedimento.
-- 2026-08-27 — Foi definido um inventário visual completo para sustentar profundidade e ritmo: identidade, hero responsivo, ambientes, equipe, procedimentos, resultados reais, depoimentos, convênios, localização, CTA e elementos auxiliares.
+- 2026-08-27 — Foi definido um inventário visual completo para sustentar profundidade e ritmo: identidade, hero responsivo, ambientes, procedimentos, resultados reais, depoimentos, convênios, localização, CTA e elementos auxiliares.
 - 2026-08-27 — Foi aprovado o conjunto inicial de tratamentos para imagens ilustrativas: implantes, prótese dentária, estética dental, clareamento dental, ortodontia e odontopediatria.
 - 2026-08-27 — Foram aprovadas e associadas imagens ilustrativas específicas para cada um dos seis tratamentos; os arquivos ficam em `imagens-site/`.
 - 2026-08-27 — Recebida e aprovada a versão PNG transparente do logotipo para substituir a composição com fundo preto nas aplicações do site.
@@ -65,7 +65,6 @@
 - 2026-09-02 — As novas fotografias `c1.jpeg`, `c1.1.jpeg` e `WhatsApp Image 2026-09-01 at 18.02.50.jpeg` foram preservadas, convertidas para WebP e adicionadas às respectivas galerias de Clínica 1 e Recepção.
 - 2026-09-02 — As duas novas fotografias da Clínica 2 foram preservadas em `assets/images`, convertidas para WebP e incorporadas como imagens complementares responsivas.
 - 2026-09-02 — A antiga galeria combinada de ambientes foi substituída por três blocos fotográficos amplos e responsivos para Clínica 1, Clínica 2 e Recepção; endereço e acesso a contatos foram preservados.
-- 2026-08-28 — Criada a seção responsiva “A Equipe” em HTML e CSS puros, com quatro placeholders e transições discretas, sem inserir informações ou imagens fictícias.
 - 2026-08-28 — O painel móvel de navegação foi compactado para duas colunas e três linhas, reduzindo largura, altura e espaços vazios sem diminuir os alvos de toque.
 - 2026-08-28 — O hero de “A Clínica” foi convertido em uma composição fotográfica ampla com texto sobreposto, contraste responsivo e enquadramento específico para celular.
 - 2026-08-28 — Corrigido o alinhamento geométrico das três linhas do controle circular do menu móvel.
@@ -101,7 +100,7 @@
 ## Problemas encontrados
 
 - 2026-08-27 — O print foi recebido como anexo temporário, mas a pasta `referencias` e o arquivo com o link ainda não foram fornecidos.
-- 2026-08-27 — Ainda não há informação real suficiente sobre serviços, proposta de valor, diferenciais, equipe e demais conteúdos institucionais.
+- 2026-08-27 — Ainda não há informação real suficiente sobre serviços, proposta de valor, diferenciais e demais conteúdos institucionais.
 
 ## Soluções aplicadas
 

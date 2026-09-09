@@ -106,7 +106,7 @@ Usar uma escala fluida, a ser calibrada na implementação:
 - CTA principal preenchida em Dark Chocolate; secundária delineada.
 - Ícones simples podem acompanhar o rótulo, mas não substituir texto essencial.
 - Definir estados distintos de hover, foco, ativo e desabilitado sem movimentos bruscos.
-- Manter os textos aprovados “Fale com a nossa equipe” e “Agende sua avaliação”, salvo revisão posterior.
+- Manter os textos aprovados “Entre em contato” e “Agende sua avaliação”, salvo revisão posterior.
 
 ## Estilo dos cards
 
@@ -158,7 +158,7 @@ Este inventário define o conjunto visual necessário para criar profundidade, a
 
 ### 2. Hero — abertura da página
 
-- Uma fotografia principal de grande impacto que apresente ambiente, equipe ou acolhimento da clínica.
+- Uma fotografia principal de grande impacto que apresente ambiente ou acolhimento da clínica.
 - Versão desktop horizontal, preferencialmente entre 16:9 e 21:9, com área negativa planejada para o texto.
 - Versão celular vertical ou quase quadrada, preferencialmente 4:5 ou 3:4, com ponto focal preservado.
 - Se a mesma foto for usada nos dois contextos, fornecer resolução suficiente e indicar recortes seguros distintos.
@@ -174,15 +174,13 @@ Este inventário define o conjunto visual necessário para criar profundidade, a
 - Disponíveis: `assets/images/recepcao.png`, `assets/images/consultorio-01.png` e `assets/images/consultorio-02.png`.
 - Lacuna recomendada: detalhe arquitetônico fotografado de perto e imagem vertical do ambiente sem pessoas.
 
-### 4. Equipe e atendimento humano
+### 4. Atendimento humano
 
-- Retrato individual padronizado de cada profissional que será apresentado, com nome e credenciais confirmados separadamente.
-- Uma fotografia coletiva da equipe, caso a equipe autorize e a seção institucional exija.
 - Uma cena de acolhimento ou conversa antes do procedimento, preferencialmente com interação natural e sem equipamento encobrindo rostos.
 - Uma cena de atendimento adulto.
 - Uma cena de atendimento infantil ou familiar, se o serviço for oficialmente confirmado.
 - Disponíveis: `assets/images/atendimento-clinico.png` e `assets/images/atendimento-infantil.png`.
-- Lacunas: retratos dos profissionais, foto da equipe e cena de acolhimento/conversa.
+- Lacunas: cena de acolhimento/conversa.
 - Versões para celular devem preservar rostos, mãos e interação; recortes nunca devem eliminar o contexto clínico essencial.
 
 ### 5. Procedimentos e serviços
@@ -287,7 +285,6 @@ As seis imagens usam linguagem quente, fundo neutro e composição 4:3 coerente 
 
 ### Complementares para aumentar profundidade
 
-1. Foto coletiva da equipe.
 2. Cena de acolhimento ou conversa.
 3. Panorâmica de corredor ou consultório.
 4. Bastidores e detalhes arquitetônicos.
@@ -342,12 +339,6 @@ Os serviços devem ser apresentados como informação clara e verificável, usan
 - Quando um ambiente possuir mais de uma fotografia, manter uma imagem principal ampla e organizar as complementares em uma grade secundária coerente.
 - Quando um ambiente possuir exatamente duas fotografias, apresentá-las como um par equilibrado no desktop e empilhá-las no celular.
 - As galerias dos ambientes usam molduras horizontais de altura controlada e preenchimento total. Fotografias verticais recebem somente o recorte mínimo necessário, com ponto focal ajustado para preservar os elementos relevantes e sem faixas laterais.
-
-### Seção A Equipe
-
-- A equipe será apresentada em uma grade editorial de quatro colunas, inspirada na leveza do componente fornecido sem reproduzir sua identidade.
-- Fotografias serão circulares, com borda discreta, sombra suave e transição contida; enquanto não houver fotos reais, usar apenas espaços reservados neutros.
-- Em telas menores, a grade passa para duas colunas, preservando legibilidade e ritmo.
 
 ### Pilares de atendimento
 
