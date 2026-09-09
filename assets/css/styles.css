@@ -118,6 +118,13 @@ h3 { margin-bottom: 0.35rem; font-size: 1.75rem; }
 .hero-media img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius-lg); box-shadow: var(--shadow); }
 
 .page-hero { padding: clamp(4rem, 8vw, 8rem) 0; background: var(--off-white); }
+.clinic-grid { display: grid; grid-template-columns: 0.78fr 1.22fr; align-items: center; gap: clamp(2.5rem, 7vw, 7rem); }
+.clinic-copy { max-width: 30rem; }
+.clinic-copy address { margin: 1.5rem 0; color: var(--chocolate); font-weight: 500; }
+.clinic-gallery { min-height: clamp(22rem, 33vw, 31rem); display: grid; grid-template-columns: 1.18fr 0.82fr; grid-template-rows: repeat(2, minmax(0, 1fr)); gap: 0.75rem; }
+.clinic-gallery figure { min-width: 0; min-height: 0; margin: 0; overflow: hidden; border-radius: var(--radius-md); background: var(--sage); }
+.clinic-gallery .gallery-main { grid-row: 1 / -1; border-radius: var(--radius-lg); }
+.clinic-gallery img { width: 100%; height: 100%; object-fit: cover; }
 .page-hero-grid { display: grid; grid-template-columns: 0.85fr 1.15fr; align-items: center; gap: clamp(3rem, 8vw, 8rem); }
 .page-hero h1 { max-width: 50rem; }
 .page-hero p:last-child { max-width: 42rem; font-size: 1.1rem; }
@@ -262,6 +269,8 @@ h3 { margin-bottom: 0.35rem; font-size: 1.75rem; }
   .nav-shell summary:hover { transform: scale(1.06); }
   .nav-shell[open] summary { background: var(--chocolate); color: var(--off-white); transform: rotate(90deg); }
   .nav-shell nav { position: absolute; top: 3.65rem; right: 0; width: min(19rem, calc(100vw - 2.5rem)); padding: 0.45rem; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.2rem; border: 1px solid rgba(158, 151, 122, 0.5); border-radius: var(--radius-md); background: rgba(236, 233, 226, 0.97); box-shadow: 0 1.2rem 3rem rgba(57, 40, 32, 0.18); backdrop-filter: blur(16px); animation: nav-reveal 220ms ease-out both; }
+  .site-header { border-bottom: 1px solid rgba(158, 151, 122, 0.35); background: rgba(236, 233, 226, 0.94); box-shadow: 0 0.5rem 1.5rem rgba(57, 40, 32, 0.08); backdrop-filter: blur(16px); }
+  .clinic-grid { grid-template-columns: 1fr; }
   .nav-shell:not([open]) nav { display: none; }
   .nav-shell nav a { min-height: 2.75rem; padding: 0.65rem 0.55rem; justify-content: center; border-radius: var(--radius-sm); text-align: center; }
   .hero-grid { grid-template-columns: 1fr; }
@@ -307,6 +316,8 @@ h3 { margin-bottom: 0.35rem; font-size: 1.75rem; }
   .treatment-card > div:not(.treatment-image) { min-height: 4.25rem; padding: 0.8rem; }
   .facts-grid { grid-template-columns: 1fr; }
   .fact { min-height: auto; padding: 1.2rem 0; border-right: 0; border-bottom: 1px solid var(--border); }
+  .clinic-gallery { min-height: 0; grid-template-columns: 1fr; grid-template-rows: none; gap: 0.75rem; }
+  .clinic-gallery figure, .clinic-gallery .gallery-main { grid-row: auto; aspect-ratio: 4 / 3; border-radius: var(--radius-md); }
   .fact:last-child { border-bottom: 0; }
   .environment-list { gap: 4rem; }
   .environment-item, .environment-item:nth-child(even) { display: grid; grid-template-columns: 1fr; gap: 1rem; }
