@@ -4,6 +4,7 @@
 
 ## Decisões aprovadas
 
+- 2026-09-15 — A página Tratamentos passa a apresentar os conteúdos fornecidos sobre óxido nitroso e laserterapia, acompanhados de uma foto de atendimento odontológico aprovada para publicação.
 - 2026-09-03 — Autorizada uma exceção restrita à stack: AOS 2.3.4 pode ser usado com JavaScript compartilhado para animações sutis de entrada, entre 600 e 800 ms, executadas uma vez e desativadas por `prefers-reduced-motion`; o projeto permanece sem React, TypeScript, Tailwind ou outras dependências.
 - 2026-09-09 — Os conteúdos institucionais provisórios e as referências públicas associadas foram removidos do site.
 - 2026-09-03 — Os quatro pilares de atendimento não devem exibir numeração e seus cards devem ser compactos, com textos equilibrados verticalmente.

@@ -71,8 +71,10 @@ A página inicial funcionará como resumo institucional e distribuirá a navega�
 - Clareamento dental — imagem: `imagens-site/clareamento-dental.png`.
 - Ortodontia — imagem: `imagens-site/ortodontia.png`.
 - Odontopediatria — imagem: `imagens-site/odontopediatria.png`.
+- Óxido nitroso (sedação consciente) — conteúdo e apresentação aprovados em 15/09/2026.
+- Laserterapia — conteúdo e apresentação aprovados em 15/09/2026.
 
-Os nomes e respectivos arquivos estão aprovados para compor a seção de tratamentos. As imagens são ilustrativas, não casos ou resultados reais da clínica. Descrições, indicações, benefícios, tecnologias, profissionais responsáveis e demais informações clínicas continuam pendentes e não devem ser inventadas.
+Os nomes e respectivos arquivos estão aprovados para compor a seção de tratamentos. As imagens são ilustrativas, não casos ou resultados reais da clínica. Os conteúdos fornecidos para óxido nitroso e laserterapia estão aprovados para publicação na página de Tratamentos.
 
 ## Funcionalidades
 
