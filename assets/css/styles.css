@@ -116,6 +116,7 @@ h3 { margin-bottom: 0.35rem; font-size: 1.75rem; }
 .hero-media { margin: 0; position: relative; }
 .hero-media::before { content: ""; position: absolute; inset: -2rem 2rem 2rem -2rem; z-index: -1; border-radius: var(--radius-lg); background: var(--sage); }
 .hero-media img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius-lg); box-shadow: var(--shadow); }
+.hero-protese .hero-media { width: min(100%, 31rem); margin-left: auto; }
 
 .page-hero { padding: clamp(4rem, 8vw, 8rem) 0; background: var(--off-white); }
 .clinic-grid { display: grid; grid-template-columns: 0.78fr 1.22fr; align-items: center; gap: clamp(2.5rem, 7vw, 7rem); }
