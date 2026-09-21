@@ -133,3 +133,5 @@
 3. Confirmar licenças das fontes e imagens que serão publicadas.
 4. Atualizar `specs/site.md`, `specs/design.md` e este histórico com novas decisões aprovadas.
 5. Apresentar um plano resumido antes de iniciar qualquer implementação grande.
+
+- 2026-09-21 — WhatsApp oficial atualizado para (47) 8493-5122, com destino https://api.whatsapp.com/send/?phone=4784935122 em todos os CTAs.

@@ -88,13 +88,13 @@ Os nomes e respectivos arquivos estão aprovados para compor a seção de tratam
 
 - Principal: “Entre em contato”.
 - Alternativa: “Agende sua avaliação”.
-- Todo botão com o texto “Agende sua avaliação” deve abrir diretamente o WhatsApp oficial em `https://wa.me/5547984935122`.
+- Todo botão com o texto “Agende sua avaliação” deve abrir diretamente o WhatsApp oficial em `https://api.whatsapp.com/send/?phone=4784935122`.
 - As páginas não devem repetir blocos extensos de contato imediatamente antes do rodapé.
 - Hierarquia e destino das demais CTAs: **pendentes**.
 
 ## Informações oficiais de contato
 
-- WhatsApp: `(47) 98493-5122`.
+- WhatsApp: `(47) 8493-5122`.
 - Telefone: `(47) 3842-2281`.
 - E-mail: `renovaodontologia.renova@gmail.com`.
 - Endereço: Rua Antônio Jorge Cecyn, 902 — Aventureiro — Joinville, SC.

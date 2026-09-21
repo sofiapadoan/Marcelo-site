@@ -17,7 +17,7 @@
 - Cabeçalho, navegação e rodapé consistentes em todas as páginas.
 - Estado ativo indicado com `aria-current="page"`.
 - Página inicial resumida; conteúdo completo permanece nas páginas internas.
-- Botões “Agende sua avaliação” apontam diretamente para `https://wa.me/5547984935122`.
+- Botões “Agende sua avaliação” apontam diretamente para `https://api.whatsapp.com/send/?phone=4784935122`.
 - Nenhum conteúdo clínico, comercial ou profissional será inventado.
 - Resultados reais e fotos de atendimento continuam condicionados a material e autorização.
 

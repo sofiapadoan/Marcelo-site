@@ -150,7 +150,7 @@ Se forem recebidos nomes, credenciais e retratos autorizados, uma seção “Pro
 
 **Objetivo:** transformar interesse em ação e facilitar chegada à clínica.
 
-**Conteúdo:** WhatsApp `(47) 98493-5122`; telefone `(47) 3842-2281`; e-mail `renovaodontologia.renova@gmail.com`; Rua Antônio Jorge Cecyn, 902 — Aventureiro — Joinville, SC; segunda a sexta, 8h–12h e 13h30–18h30.
+**Conteúdo:** WhatsApp `(47) 8493-5122`; telefone `(47) 3842-2281`; e-mail `renovaodontologia.renova@gmail.com`; Rua Antônio Jorge Cecyn, 902 — Aventureiro — Joinville, SC; segunda a sexta, 8h–12h e 13h30–18h30.
 
 **Imagem:** fotografia de fachada ainda não recebida. O mapa deve ser link ou integração acessível; não usar captura estática como substituição da navegação.
 
